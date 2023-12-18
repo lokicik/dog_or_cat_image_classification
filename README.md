@@ -14,7 +14,7 @@ Feel free to reach out! ✌
 You should download the dataset and change the variables' paths in the scripts to dataset's path but I suggest you to run the scripts in Kaggle notebooks and don't download the data, it would be easier since you wouldn't have to download the data, which is over 100 mb's. I developed the project on Kaggle too, so you don't have to change the dataset paths in the scripts, you just have to add the data to your notebook if you work on Kaggle.
 
 # Project Presentation
-I would like to introduce my most comprehensive project to date! I have completed the project "Dog or Cat Classification (CNN) deployed with AWS Lambda" which I developed as the Capstone Project 1 of the Machine Learning Zoomcamp organized by DataTalksClub and presented by Alexey Grigorev. I had the opportunity to apply all the techniques I learned, and I gave my all to this project. I look forward to your feedback and hope for positive reviews!
+I would like to introduce my most comprehensive project to date! I have completed the project "Dog or Cat Classification (CNN)" which I developed as the Capstone Project 1 of the Machine Learning Zoomcamp organized by DataTalksClub and presented by Alexey Grigorev. I had the opportunity to apply all the techniques I learned, and I gave my all to this project. I look forward to your feedback and hope for positive reviews!
 
 ## Description of the Problem
 In the digital age, the sheer volume of images available on the internet poses a challenge 
