@@ -68,6 +68,8 @@ Train an algorithm on these files and predict the labels for test1.zip (1 = dog,
 
 
 `docker push YOUR_DOCKERHUB_NAME/image_name`
+
+
 ![ss6.png](ss%2Fss6.png)
 # Deployment guide
 
