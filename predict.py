@@ -1,3 +1,5 @@
+# This file was actually for AWS but I couldn't do it, the actual predict.py is lambda_function.py
+
 import requests
 
 def invoke(image_url):
