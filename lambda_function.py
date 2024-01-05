@@ -1,3 +1,5 @@
+# This file is the actual predict.py
+
 import tflite_runtime.interpreter as tflite
 from flask import Flask, jsonify, request
 from flask import request as requ
